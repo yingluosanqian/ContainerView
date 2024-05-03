@@ -411,5 +411,5 @@ Company Departments: {HR: (Alice, [(Bob, 28), (Charlie, 34)]), IT: (Dave, [(Eve,
 
 以后可能会根据更多的需求进行相应的更新。
 
-如有建议欢迎联系：[Email me](mailto:yingluosanqian@gmail.com)
+如有建议欢迎联系：[yingluosanqian@gmail.com](yingluosanqian@gmail.com)
 
