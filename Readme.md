@@ -21,7 +21,7 @@ int main() {
 
     std::map<std::string, int> map = {{"one", 1}, {"two", 2}};
     std::cout << "Map: " << map << std::endl;
-    // Map: [one: 1, two: 2]
+    // Map: {one: 1, two: 2}
 
     std::pair<int, double> myPair = {1, 2.3};
     std::cout << "Pair: " << myPair << std::endl;
